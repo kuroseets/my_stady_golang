@@ -1,0 +1,2 @@
+$text = <STDIN>;
+print $text;

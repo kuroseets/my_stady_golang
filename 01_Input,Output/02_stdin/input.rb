@@ -1,0 +1,2 @@
+text = gets
+print text
